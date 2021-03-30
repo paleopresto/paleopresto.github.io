@@ -6,7 +6,7 @@ Paleoclimate reconstructions are among the most widely used scientific products 
 2. Apply an array of published methods to produce continuously-updated reconstructions; and 
 3. Provide broad access via a responsive web front end, allowing to easily visualize and compare published reconstructions, investigate unexplored combinations of data and methods, and generally lower friction to develop or use PRs in research and education.
 
-![PReSto concept][https://github.com/paleopresto/paleopresto.github.io/raw/main/PReSto_concept.png]
+![PReSto concept][https://raw.githubusercontent.com/paleopresto/paleopresto.github.io/main/PReSto_concept.png]
 
 ## Key Components
 
