@@ -1,4 +1,4 @@
-<img align="left" width="80" height="80" src="./nsf_logo.png">
+<img align="left" width="120" height="120" src="./nsf_logo.png">
 
 # Paleoclimate Reconstruction Storehouse
 
